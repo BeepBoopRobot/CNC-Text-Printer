@@ -6,8 +6,8 @@ Stepper motor2(totalSteps,8,9,10,11);
 
 static const struct {const char letter, *data;} motorInstructs[] =
 {
-    { 'A', "monkey"},
-    { 'B', "fucker"}//2l100, 1r30, 2r75, 1r50" }
+    { 'A', "beep"},
+    { 'B', "boop"}//2l100, 1r30, 2r75, 1r50" }
 };
 
 void setup() {
